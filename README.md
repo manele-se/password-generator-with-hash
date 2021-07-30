@@ -3,9 +3,9 @@
 This is a small program in JavaScript to generate a password of random characters, numbers and symbols.
 Passwords get hashed with a constant salt and saved in a local file.
  
- To start the program type the command: `node main <options>`
+ To start the program type the command: `node src/main <options>`
 
- To see the options: `node main -h`
+ To see the options: `node src/main  -h`
 
  External library used:
 

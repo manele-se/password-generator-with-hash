@@ -2,7 +2,7 @@
 
 /**
  * This program generate a password of random characters, numbers and symbols. Check options to choose. 
- * Type the command: node main <options>
+ * Type the command: node src/main  <options>
  * node main -h for help
  * External library used: commander https://github.com/tj/commander.js, chalk https://github.com/chalk/chalk and clipboardy: https://github.com/sindresorhus/clipboardy
 */
